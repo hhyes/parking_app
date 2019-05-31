@@ -22,3 +22,7 @@ In cazul in care a fost extras un numar de inmatriculare, acesta este cautat in 
 Modulul bazei de date returneaza o valoare booleana in modulul bridge.
 Daca valoarea este pozitiva, se transmite prin serial un trigger inapoi catre placuta Arduino, care declanseaza ridicarea barierei.
 
+
+
+Surse:
+https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd
